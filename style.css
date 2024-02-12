@@ -15,7 +15,7 @@
     display: flex;
     justify-content: center;
     justify-content:space-around ;
-    color: white;
+    color: rgb(68, 10, 243);
 
 }
 
@@ -62,7 +62,7 @@ nav p{
 
 .nv .text{
     text-align: center;
-    color: white;
+    color: rgb(68, 10, 243);
     font-size: 20px;
     margin-top: 20px;
 }
@@ -113,4 +113,11 @@ nav p{
     border-radius: 7px;
 }
 
+.app
+{
+    margin-top: 94px;
+    margin-left: 50px;
+    text-align: center;
+    height: 3000px;
 
+}
